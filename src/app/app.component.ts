@@ -55,7 +55,7 @@ export class AppComponent implements OnInit {
         description: 'Mmmh que c\'est bon !',
         imageUrl: 'https://wtop.com/wp-content/uploads/2020/06/HEALTHYFRESH.jpg',
         createdDate: new Date(),
-        snaps: 0
+        snaps: 4346234.36
       }
     ]
   }
